@@ -17,7 +17,7 @@
 к примеру instaloader --login alexey_paluchaetsa. Жмем "ввод".
 9) Ведите пароль от инстаграмма.
 10) Дальше все просто) введите следущую команду с названием своего профиля вместо моего.
-      'instaloader --login alexey_paluchaetsa alexey_paluchaetsa --no-metadata-json --no-profile-pic -profile'
+      <instaloader --login alexey_paluchaetsa alexey_paluchaetsa --no-metadata-json --no-profile-pic -profile>
 11) В созданной папке появится новая папка, в которую скачаются все посты с вашей страницы.
 12) Для того чтобы скачать актуальное, введите команду, заменив название моего профиля на свой.
       instaloader --login alexey_paluchaetsa alexey_paluchaetsa --no-metadata-json --no-posts --no-profile-pic --highlights -profile
